@@ -1,6 +1,0 @@
-> venv olustur 
-> python prototiplemeden sonra python package olustur 
-	> paket haline getirdikten sonra fonksyonları tanımla 
-	> cli arguman yapısını tanımla 
-
-
